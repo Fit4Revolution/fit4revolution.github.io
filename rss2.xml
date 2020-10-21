@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fit 4 Revolution</title>
+    <link>https://fit4revolution.github.io/</link>
+    
+    <image>
+      <url>https://fit4revolution.github.io/icon.png</url>
+      <title>Fit 4 Revolution</title>
+      <link>https://fit4revolution.github.io/</link>
+    </image>
+    
+    <atom:link href="https://fit4revolution.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Wed, 21 Oct 2020 20:55:41 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://fit4revolution.github.io/hello-world/</link>
+      <guid>https://fit4revolution.github.io/hello-world/</guid>
+      <pubDate>Wed, 21 Oct 2020 20:55:41 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://fit4revolution.github.io/hello-world/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fit 4 Revolution</title>
+  <icon>https://fit4revolution.github.io/icon.png</icon>
+  <subtitle>Die no bullshit Fitnessressource</subtitle>
+  <link href="https://fit4revolution.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://fit4revolution.github.io/"/>
+  <updated>2020-10-21T20:55:41.648Z</updated>
+  <id>https://fit4revolution.github.io/</id>
+  
+  <author>
+    <name>Fit4Revo</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://fit4revolution.github.io/hello-world/"/>
+    <id>https://fit4revolution.github.io/hello-world/</id>
+    <published>2020-10-21T20:55:41.648Z</published>
+    <updated>2020-10-21T20:55:41.648Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
