@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: http://fit4revolution.github.io/sitemap.xml
