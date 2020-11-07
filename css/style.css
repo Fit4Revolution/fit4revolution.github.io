@@ -2160,3 +2160,13 @@ i.icon:before {
     text-align: center;
   }
 }
+img.img-center {
+  display: block;
+  max-width: 75%;
+}
+img.img-right {
+  display: block;
+  max-width: 50%;
+  margin-left: 10px;
+  float: right;
+}
