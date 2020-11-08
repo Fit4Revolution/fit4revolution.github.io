@@ -2170,3 +2170,12 @@ img.img-right {
   margin-left: 10px;
   float: right;
 }
+.logo-wrap {
+  max-width: 100%;
+}
+.logo {
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  background-size: contain;
+  max-width: 100%;
+}

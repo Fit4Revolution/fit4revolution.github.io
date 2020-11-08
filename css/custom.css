@@ -8,3 +8,10 @@ img.img-right {
   margin-left: 10px;
   float: right;
 }
+.logo-wrap {
+  max-width: 100%;
+}
+.logo {
+  background-size: contain;
+  max-width: 100%;
+}
