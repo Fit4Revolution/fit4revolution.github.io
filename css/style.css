@@ -2160,6 +2160,11 @@ i.icon:before {
     text-align: center;
   }
 }
+img.img-center-top {
+  display: block;
+  max-width: 100%;
+  margin-top: 10px;
+}
 img.img-center {
   display: block;
   max-width: 75%;
@@ -2168,7 +2173,21 @@ img.img-right {
   display: block;
   max-width: 50%;
   margin-left: 10px;
+  margin-top: 10px;
   float: right;
+}
+img.img-left {
+  display: block;
+  max-width: 50%;
+  margin-right: 10px;
+  margin-top: 10px;
+  float: left;
+}
+img.img-width-60 {
+  max-width: 60%;
+}
+img.img-width-40 {
+  max-width: 40%;
 }
 .logo-wrap {
   max-width: 100%;
