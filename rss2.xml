@@ -15,7 +15,7 @@
     <atom:link href="https://fit4revolution.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Fit4Revolution ist die no bullshit Ressource für den Einstieg in die Themen: Kraftsport, Muskelaufbau, Ernährung und Fitness -- vegan, queer, LGBT friendly.</description>
-    <pubDate>Thu, 12 Nov 2020 14:36:23 GMT</pubDate>
+    <pubDate>Thu, 12 Nov 2020 14:39:02 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -71,9 +71,9 @@
       <category domain="https://fit4revolution.github.io/categories/Homegym/">Homegym</category>
       
       
-      <category domain="https://fit4revolution.github.io/tags/basics/">basics</category>
-      
       <category domain="https://fit4revolution.github.io/tags/ausstattung/">ausstattung</category>
+      
+      <category domain="https://fit4revolution.github.io/tags/basics/">basics</category>
       
       <category domain="https://fit4revolution.github.io/tags/homegym/">homegym</category>
       
