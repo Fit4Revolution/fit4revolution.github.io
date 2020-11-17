@@ -2203,6 +2203,9 @@ img.img-width-40 {
 span {
   color: #999;
 }
+span.disqus-comment-count {
+  color: #fff;
+}
 p {
   text-align: justify;
   font-weight: 400;

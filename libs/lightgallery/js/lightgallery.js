@@ -682,10 +682,13 @@
             currentEle = this.items[index];
             subHtml = currentEle.getAttribute('data-sub-html');
             if (this.s.getCaptionFromTitleOrAlt && !subHtml) {
-                subHtml = currentEle.getAttribute('title');
-                if (subHtml && currentEle.querySelector('img')) {
-                    subHtml = currentEle.querySelector('img').getAttribute('alt');
+                    subHtml = currentEle.querySelector('img').getAttribute('title');
+                if (!subHtml) {
+                subHtml = currentEle.querySelector('img').getAttribute('alt');
                 }
+/*                if (subHtml && currentEle.querySelector('img')) {
+                    subHtml = currentEle.querySelector('img').getAttribute('alt');
+                }*/
             }
         }
 
