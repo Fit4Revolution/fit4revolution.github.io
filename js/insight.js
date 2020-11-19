@@ -201,7 +201,14 @@
 
     function gotoLink ($item) {
         if ($item && $item.length) {
+            console.log($item.attr('data-url'));
             location.href = $item.attr('data-url');
+            // custom hack
+            // if 2nd char is a / remove the leading one
+            var $failchar = $item.attr('data-url').charAt(1);
+            if ($failchar === "/") {
+                location.href = $item.attr('data-url').slice(1); 
+            }
         }
     }
 
